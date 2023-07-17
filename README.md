@@ -7,7 +7,6 @@ You have assembled information on the plants and bees research in a file called 
 
 Challenge:
 Provide your agency with a report that covers the following:
-
     Which plants are preferred by native vs non-native bee species?
     A visualization of the distribution of bee and plant species across one of the samples.
     Select the top three plant species you would recommend to the agency to support native bees.
