@@ -10,3 +10,9 @@ Provide your agency with a report that covers the following:
     Which plants are preferred by native vs non-native bee species?
     A visualization of the distribution of bee and plant species across one of the samples.
     Select the top three plant species you would recommend to the agency to support native bees.
+
+    The dataset can be found on this site (data for this challenge has been modified by DataCamp)
+    https://datadryad.org/stash/dataset/doi:10.5061/dryad.pzgmsbcj8
+
+    My DayaCamp workspace:
+    https://app.datacamp.com/workspace/w/fda62840-24d1-4585-9730-2548caf9eff4
